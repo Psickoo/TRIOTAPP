@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "192911155625",
+    "firebase_url": "https://triot-5522f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "triot-5522f",
+    "storage_bucket": "triot-5522f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192911155625:android:cfb107e8af90bc31a7a4b8",
+        "android_client_info": {
+          "package_name": "com.example.controller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192911155625-3n7di9cklr4ckfhh1nfvg4n2estbj12q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp8oRnSAQPuDqFOz4fVmdhT4oghstK5_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192911155625-3n7di9cklr4ckfhh1nfvg4n2estbj12q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
